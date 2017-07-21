@@ -4,6 +4,7 @@ A recipe box using React.js
 Check out on Github at https://abkunal.github.io/Recipe-Box/  
 Check out on Codepen at http://codepen.io/abkunal/full/ZBNqNB  
   
+Check out the video below   
 [![Recipe Box](https://github.com/abkunal/Recipe-Box/blob/master/Recipe%20box.png)](https://www.youtube.com/watch?v=QSFOWrg1iMM)
   
 ### User Stories  
